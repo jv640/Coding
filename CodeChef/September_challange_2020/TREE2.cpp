@@ -60,3 +60,4 @@ int main() {
 	}
 	return 0;
 }
+// Other approach is we just have to count distinct number other than zero this will be our answer so we can do it using map.
